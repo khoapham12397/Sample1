@@ -8,4 +8,4 @@ First example
 7: factor
 8: sqrt
 9: recursive
-10: dp
+10: dynamic programming
