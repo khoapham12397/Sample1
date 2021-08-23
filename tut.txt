@@ -2,7 +2,7 @@ First example
 1: add 1
 2: add
 3: subtract
-4: mul
-5: divide
-6: pow
+4: multi
+5: div
+6: power
 7: factor
