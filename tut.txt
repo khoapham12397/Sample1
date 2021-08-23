@@ -3,3 +3,4 @@ First example
 2: add
 3: subtract 
 4: mul
+5: div
