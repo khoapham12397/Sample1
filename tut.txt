@@ -7,4 +7,5 @@ First example
 6: pow
 7: factor
 8: sqrt
-9: recur
+9: recursive
+10: dp
