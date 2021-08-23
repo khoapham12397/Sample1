@@ -3,5 +3,6 @@ First example
 2: add
 3: sub
 4: mul
-5: divide
-6: pow
+5: div
+6: power
+7: fact
