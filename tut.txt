@@ -3,6 +3,7 @@ First example
 2: add
 3: subtract
 4: mul
-5: div
-6: power
+5: divide
+6: pow
 7: fact
+8: sqrt
