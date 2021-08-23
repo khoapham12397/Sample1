@@ -1,7 +1,8 @@
 First example
 1: add 1
 2: add
-3: subt
-4: multiply
+3: subtract
+4: mul
 5: div
 6: power
+7: fact
