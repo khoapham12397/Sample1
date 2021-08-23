@@ -1,6 +1,6 @@
 First example
 1: add 1
 2: add
-3: subtract 
-4: multply
+3: subtract
+4: multiply
 5: divide
