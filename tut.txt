@@ -4,3 +4,4 @@ First example
 3: sub
 4: mul
 5: divide
+6: pow
