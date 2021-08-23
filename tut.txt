@@ -1,4 +1,5 @@
 First example
 1: add 1
 2: add
-3: 1 add
+3: subtract 
+4: mul
