@@ -10,3 +10,4 @@ First example
 9: recursive
 10: dp
 11: sorting
+12: searching
